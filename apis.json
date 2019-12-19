@@ -1,0 +1,50 @@
+{
+    "name": "ThoughtWorks",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-04-51-pm.jpg",
+    "tags": [
+        "agencies",
+        "have api",
+        "new",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/thoughtworks\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ThoughtWorks",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-04-51-pm.jpg",
+            "humanURL": "http:\/\/thoughtworks.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/thoughtworks-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Email",
+            "url": "info-us@thoughtworks.co"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/thoughtworks"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.thoughtworks.com "
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/thoughtworks.com"
+        }
+    ]
+}
